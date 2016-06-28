@@ -21,9 +21,3 @@ Remove the background and non-skin part:train_set.7z</li>
 </p>
 <h2>Run Skin_Color_Detection.m</h2>
 <p>Output the skin color detection result.
-
-</p>
-<p>Edit By <a href="http://mahua.jser.me">MaHua</a>
-Edit By <a href="http://mahua.jser.me">MaHua</a>
-Edit By <a href="http://mahua.jser.me">MaHua</a></p>
-</body></html>
